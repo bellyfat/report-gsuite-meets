@@ -12,7 +12,7 @@ pip install pandas
 
 ## Usage
 
-Download an export of the Meets audit for the time period you're reporting on using the instructions at [G Suite Admin Help: Google Meet audit log](https://support.google.com/a/answer/9186729?hl=en). Make sure to select **All Columns** and **Comma-seperated values (.csv)** in the export configuration window.
+Download an export of the Meet audit for the time period you're reporting on using the instructions at [G Suite Admin Help: Google Meet audit log](https://support.google.com/a/answer/9186729?hl=en). Make sure to select **All Columns** and **Comma-seperated values (.csv)** in the export configuration window.
 
 Then run the script with the audit you downloaded as an argument.
 
